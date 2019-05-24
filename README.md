@@ -1,3 +1,7 @@
+Bu kütüphanenin orjinali <a href="https://github.com/q2apro/q2apro-flag-reasons">Buradadır</a>
+
+Uyarıları yapan kullanıcıları sadece editör ve üstü yöneticilerin görmesi sağlandı.
+
 # Question2Answer Plugin: Flag Reasons #
 
 ----------
